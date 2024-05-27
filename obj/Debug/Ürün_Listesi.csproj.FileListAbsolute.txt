@@ -1,0 +1,10 @@
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\bin\Debug\Ürün_Listesi.exe.config
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\bin\Debug\Ürün_Listesi.exe
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\bin\Debug\Ürün_Listesi.pdb
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\obj\Debug\Ürün_Listesi.csproj.AssemblyReference.cache
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\obj\Debug\Ürün_Listesi.Form1.resources
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\obj\Debug\Ürün_Listesi.Properties.Resources.resources
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\obj\Debug\Ürün_Listesi.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\obj\Debug\Ürün_Listesi.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\obj\Debug\Ürün_Listesi.exe
+C:\Users\Gamze\source\repos\C#_Udemy\Ürün_Listesi\obj\Debug\Ürün_Listesi.pdb
